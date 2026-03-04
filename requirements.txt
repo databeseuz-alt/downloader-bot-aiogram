@@ -1,0 +1,6 @@
+aiogram
+supabase
+yt-dlp
+python-dotenv
+asyncio
+aiohttp
